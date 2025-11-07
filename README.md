@@ -4,10 +4,17 @@ Welcome to my GitHub profile! I'm a developer passionate about embedded systems 
 
 ## 🎯 About Me
 
-- 💻 **Interests**: C, C++, STM (STM32), Data Structures & Video Game Development
-- 🌱 **Currently Learning**: STM32 & C++
+- 💻 **Interests**: C, C++, Embedded Systems, Data Structures & Video Game Development
+- 🌱 **Currently Learning**: Embedded Systems & C++
 - 🎮 **Gaming**: An ardent fan of Arkane Studios
 - 👨 **Pronouns**: He/Him
+
+## 🛠️ Tech Stack
+
+- **Backend**: C#, .NET Framework, ASP.NET MVC, Web API, Entity Framework, SignalR, Redis
+- **Frontend**: JavaScript, jQuery, Bootstrap, Vue.js
+- **Database**: SQL Server
+- **Mobile**: uni-app, WeChat Mini Program
 
 ## 📬 Get in Touch
 
@@ -18,4 +25,5 @@ Feel free to reach out to me:
 
 ---
 
-*An individual who is both biologically male and identifies as male. Not an Armed Helicopter* 😄
+*An individual who is both biologically male and identifies as male. Or you can consider me an Armed Helicopter* 😄
+
